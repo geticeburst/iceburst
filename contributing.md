@@ -2,8 +2,8 @@
 
 A couple of our open source projects are:
 
-- [Rogue Agent](https://rogueagent.dev), our custom-built OpenTelemetry agent
-- [Duckstream](https://duckstream.dev), streaming DuckDB replication (Inspired by [Litestream](https://litestream.io/), streaming SQLite replication)
+- [Rogue Agent](https://rogueagent.com), our custom-built OpenTelemetry agent.
+- [Icebucket](https://icebucket.com), Amazon S3 as destination with Apache Iceberg.
 
 ### Want to contribute?
 
