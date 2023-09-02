@@ -4,6 +4,7 @@ A couple of our open source projects are:
 
 - [Rogue Agent](https://rogueagent.com), our custom-built OpenTelemetry agent.
 - [Icebucket](https://icebucket.com), Amazon S3 as destination with Apache Iceberg.
+- [Icehouse](https://icehouse.com), Iceberg bindings for data lakehouses.
 
 ### Want to contribute?
 
